@@ -1,12 +1,21 @@
+<div dir="rtl" align="right">
 
-<img width="256" height="67" alt="image" src="https://github.com/user-attachments/assets/5819ae2e-d4f5-49c7-89a2-7601023a1879" />
+<h1>ThinkDashboard</h1>
 
-<div dir="rtl">
+<p>
+<img width="256" height="67" alt="ThinkDashboard" src="https://github.com/user-attachments/assets/5819ae2e-d4f5-49c7-89a2-7601023a1879" />
+</p>
 
-**Sourcely**
+<p>
+<b>Sourcely</b>
+  
+  منصة بحث أكاديمي تساعدك على العثور على
+<b>المصادر والأبحاث العلمية المناسبة</b>
+لموضوعك بسرعة، مع اقتراح مراجع مرتبطة بنص البحث.
+</p>
 
-: منصة بحث أكاديمي تساعدك على العثور على **المصادر والأبحاث العلمية المناسبة** لموضوعك بسرعة، مع اقتراح مراجع مرتبطة بنص البحث.
-
-[الموقع الرسمي](https://www.sourcely.net/)
+<p>
+<a href="https://www.sourcely.net/">الموقع الرسمي</a>
+</p>
 
 </div>
